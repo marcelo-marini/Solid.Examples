@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solid.Examples", "Solid.Examples\Solid.Examples.csproj", "{60FF3395-294B-433E-8001-954D9BA00279}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F73E6F94-8014-45A1-B949-7172B83D3276}"
+	ProjectSection(SolutionItems) = preProject
+		..\mark1\.gitignore = ..\mark1\.gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
