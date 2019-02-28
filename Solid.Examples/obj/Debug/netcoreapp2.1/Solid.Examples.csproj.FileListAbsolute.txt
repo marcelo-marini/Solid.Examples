@@ -7,3 +7,12 @@ c:\users\marcelo\documents\visual studio 2017\Projects\Solid.Examples\Solid.Exam
 c:\users\marcelo\documents\visual studio 2017\Projects\Solid.Examples\Solid.Examples\bin\Debug\netcoreapp2.1\Solid.Examples.pdb
 c:\users\marcelo\documents\visual studio 2017\Projects\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.dll
 c:\users\marcelo\documents\visual studio 2017\Projects\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.pdb
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\bin\Debug\netcoreapp2.1\Solid.Examples.deps.json
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\bin\Debug\netcoreapp2.1\Solid.Examples.dll
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\bin\Debug\netcoreapp2.1\Solid.Examples.pdb
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.csprojAssemblyReference.cache
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.dll
+C:\Users\Marcelo\Documents\GitHub\Solid.Examples\Solid.Examples\obj\Debug\netcoreapp2.1\Solid.Examples.pdb

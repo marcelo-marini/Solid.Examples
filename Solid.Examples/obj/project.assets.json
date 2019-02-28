@@ -1164,11 +1164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\marcelo\\documents\\visual studio 2017\\Projects\\Solid.Examples\\Solid.Examples\\Solid.Examples.csproj",
+      "projectUniqueName": "C:\\Users\\Marcelo\\Documents\\GitHub\\Solid.Examples\\Solid.Examples\\Solid.Examples.csproj",
       "projectName": "Solid.Examples",
-      "projectPath": "c:\\users\\marcelo\\documents\\visual studio 2017\\Projects\\Solid.Examples\\Solid.Examples\\Solid.Examples.csproj",
+      "projectPath": "C:\\Users\\Marcelo\\Documents\\GitHub\\Solid.Examples\\Solid.Examples\\Solid.Examples.csproj",
       "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\marcelo\\documents\\visual studio 2017\\Projects\\Solid.Examples\\Solid.Examples\\obj\\",
+      "outputPath": "C:\\Users\\Marcelo\\Documents\\GitHub\\Solid.Examples\\Solid.Examples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
