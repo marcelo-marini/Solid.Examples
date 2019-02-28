@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 
-namespace Solid.Examples._1___SRP.Solucao {
+namespace Solid.Examples._5___DIP.Violacao {
 
     public class CustomerRepository {
 

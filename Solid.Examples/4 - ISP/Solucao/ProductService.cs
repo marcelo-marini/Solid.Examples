@@ -5,7 +5,7 @@
         }
 
         public void Validate() {
-            throw new System.NotImplementedException();
+            // Lógica de validação dos dados
         }
     }
 }

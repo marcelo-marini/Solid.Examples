@@ -1,8 +1,8 @@
 ﻿using System.Data.SqlClient;
 
-namespace Solid.Examples._1___SRP.Solucao {
+namespace Solid.Examples._5___DIP.Solucao {
 
-    public class CustomerRepository {
+    public class CustomerRepository : ICustomerRepository {
 
         public void CreateCustomer(Customer customer) {
 
